@@ -1,0 +1,16 @@
+.About-container {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+.About-container h3 {
+  padding-bottom: 1rem;
+}
+.About-container p {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+  .About-container {
+    padding-bottom: 4rem 2rem;
+  }
+}

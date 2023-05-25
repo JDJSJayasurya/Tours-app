@@ -1,0 +1,11 @@
+.from-container {
+  margin: 4rem 6rem;
+  color: black;
+}
+.from-container form {
+  padding-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
